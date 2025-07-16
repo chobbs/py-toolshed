@@ -8,7 +8,7 @@ from snowflake.snowpark import Session
 connection_parameters = {
   "account": "LJRCPTB-BGB86487",
   "user": "CHOBBS",
-  "password": "tkrFR9DfHK3yk77",
+  "password": "eyJraWQiOiIyOTAzNzM3MTk0NzE3MTkwIiwiYWxnIjoiRVMyNTYifQ.eyJwIjoiMTczMDc2MjI4OjE3MzA3NjM1NiIsImlzcyI6IlNGOjEwNDkiLCJleHAiOjE3NTUyNzcxNDh9.c4x7OLVsCzpXEE4WWoXyCFhFRKwvAK6364QjMRvc4XTas-9h_u_oDiHzE43lBhe5dsVlDMGLEujYgxpB7Ns8Iw",
   "role": "ACCOUNTADMIN",  
   "warehouse": "DEMO", 
   "database": "SNOWFLAKE_SAMPLE_DATA",  
